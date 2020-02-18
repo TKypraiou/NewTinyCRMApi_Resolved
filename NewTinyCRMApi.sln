@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTinyCRMApi", "NewTinyCRMApi.csproj", "{69B74B6E-A9E7-494A-B5F2-A43813BDB843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCRMTests", "..\TinyCRMTests\TinyCRMTests.csproj", "{56942DDE-7B40-4E3E-97B2-F5B8FDCA0D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B74B6E-A9E7-494A-B5F2-A43813BDB843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B74B6E-A9E7-494A-B5F2-A43813BDB843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B74B6E-A9E7-494A-B5F2-A43813BDB843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B74B6E-A9E7-494A-B5F2-A43813BDB843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56942DDE-7B40-4E3E-97B2-F5B8FDCA0D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56942DDE-7B40-4E3E-97B2-F5B8FDCA0D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56942DDE-7B40-4E3E-97B2-F5B8FDCA0D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56942DDE-7B40-4E3E-97B2-F5B8FDCA0D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F698C38B-DF5E-4094-8405-6676D9EEA57D}
+	EndGlobalSection
+EndGlobal
